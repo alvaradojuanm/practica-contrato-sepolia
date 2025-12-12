@@ -1,4 +1,4 @@
-# Mi Primer Contrato en Sepolia 🚀
+# Contrato en Sepolia 🚀
 
 Smart contract simple desplegado en la red de prueba Sepolia de Ethereum.
 
