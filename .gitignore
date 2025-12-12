@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Variables de entorno (NUNCA subir)
+.env
+
+# Archivos de caché de Hardhat
+cache/
+artifacts/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
